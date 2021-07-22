@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">motion detect</string>
+    <string name="person_undetect_log">Person Undetect Log</string>
+</resources>
